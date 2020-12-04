@@ -3,6 +3,3 @@ In this data analysis, I made a dataset by my own from some old result sheets of
 
 ![alt text](https://media.giphy.com/media/nmOa17CooW9soGiDqD/giphy.gif)
 
-## Dataset
-
-### Processing
